@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b253619e-08dc-407e-af02-4343d3aa2fcf" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/fr/design/factory/factorymethod/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/fr/design/factory/factorymethod/CarFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/fr/design/factory/factorymethod/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/fr/design/factory/factorymethod/Tesla.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/fr/design/factory/factorymethod/TeslaFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/fr/design/factory/factorymethod/Wuling.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/fr/design/factory/factorymethod/WulingFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/fr/design/factory/factorymethod/工厂方法模式.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/fr/design/factory/simplefactory/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/fr/design/factory/simplefactory/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/fr/design/factory/simplefactory/SimpleCarFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/fr/design/factory/simplefactory/Tesla.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/fr/design/factory/simplefactory/Wuling.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/fr/design/factory/simplefactory/简单工厂模式.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/fr/design/factory/simplefactory/Client.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/fr/design/factory/simplefactory/DataSourceFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/fr/design/factory/simplefactory/vo/ControlDataSource.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/fr/design/factory/simplefactory/vo/DataSource.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/fr/design/factory/simplefactory/vo/PowerDataSource.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="$PROJECT_DIR$/../../../programFiles/repository" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../programFiles/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="$PROJECT_DIR$/../../../programFiles/apache-maven-3.6.3/conf/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1spRR7uAGhUp5QiEt1rmnBJMZq1" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="abbreviatePackageNames" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/org/fr/design/factory/factorymethod" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/org/fr/design/factory/factorymethod" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main (1)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.fr.design.factory.factorymethod.Main" />
+      <module name="design-pattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.fr.design.factory.factorymethod.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.fr.design.factory.simplefactory.Main" />
+      <module name="design-pattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.fr.design.factory.simplefactory.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SshConsoleOptionsProvider">
+    <option name="myEncoding" value="UTF-8" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b253619e-08dc-407e-af02-4343d3aa2fcf" name="Default Changelist" comment="" />
+      <created>1621567533373</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1621567533373</updated>
+      <workItem from="1621567537769" duration="5055000" />
+      <workItem from="1621580105081" duration="3643000" />
+    </task>
+    <task id="LOCAL-00001" summary="添加简单工厂代码">
+      <created>1621575949419</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1621575949419</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="添加简单工厂代码" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加简单工厂代码" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="529" y="127" key="#com.intellij.ide.util.MemberChooser" timestamp="1621581658570">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state x="529" y="127" key="#com.intellij.ide.util.MemberChooser/0.23.1440.827@0.23.1440.827" timestamp="1621581658570" />
+    <state x="529" y="127" key="#com.intellij.ide.util.MemberChooser/1440.23.1366.1001/0.23.1440.827@0.23.1440.827" timestamp="1621580934234" />
+    <state x="458" y="190" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1621580773899">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state x="458" y="190" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/1440.23.1366.1001/0.23.1440.827@0.23.1440.827" timestamp="1621580773899" />
+    <state x="280" y="23" key="CommitChangelistDialog2" timestamp="1621575949144">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state x="280" y="23" key="CommitChangelistDialog2/0.23.1440.827@0.23.1440.827" timestamp="1621575949144" />
+    <state width="1398" height="180" key="GridCell.Tab.0.bottom" timestamp="1621581836811">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state width="1398" height="180" key="GridCell.Tab.0.bottom/0.23.1440.827@0.23.1440.827" timestamp="1621581836811" />
+    <state width="1398" height="180" key="GridCell.Tab.0.center" timestamp="1621581836810">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state width="1398" height="180" key="GridCell.Tab.0.center/0.23.1440.827@0.23.1440.827" timestamp="1621581836810" />
+    <state width="1398" height="180" key="GridCell.Tab.0.left" timestamp="1621581836810">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state width="1398" height="180" key="GridCell.Tab.0.left/0.23.1440.827@0.23.1440.827" timestamp="1621581836810" />
+    <state width="1398" height="180" key="GridCell.Tab.0.right" timestamp="1621581836811">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state width="1398" height="180" key="GridCell.Tab.0.right/0.23.1440.827@0.23.1440.827" timestamp="1621581836811" />
+    <state x="217" y="23" width="1024" height="827" key="SettingsEditor" timestamp="1621575572035">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state x="217" y="23" width="1024" height="827" key="SettingsEditor/0.23.1440.827@0.23.1440.827" timestamp="1621575572035" />
+    <state x="316" y="176" key="Vcs.Push.Dialog.v2" timestamp="1621577607886">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state x="316" y="176" key="Vcs.Push.Dialog.v2/0.23.1440.827@0.23.1440.827" timestamp="1621577607886" />
+  </component>
+</project>
