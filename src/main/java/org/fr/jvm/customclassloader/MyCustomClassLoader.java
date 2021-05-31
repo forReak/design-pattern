@@ -9,7 +9,7 @@ import java.io.*;
  * @package org.fr.jvm.customclassloader
  */
 public class MyCustomClassLoader extends ClassLoader{
-    private String path="/Users/furao/Documents/code/gitCode/design-pattern/target/classes/";    //默认加载路径
+    private String path;    //默认加载路径
 
     private String name;                    //类加载器名称
 
@@ -17,8 +17,9 @@ public class MyCustomClassLoader extends ClassLoader{
 
 
 
-    public MyCustomClassLoader(String name) {
+    public MyCustomClassLoader(String path,String name) {
         super();
+        this.path = path;
         this.name = name;
     }
 
@@ -26,6 +27,8 @@ public class MyCustomClassLoader extends ClassLoader{
         super(parent);
         this.name = name;
     }
+
+
 
 
 
